@@ -1,14 +1,44 @@
 [
   {
-    "title": "some title",
-    "content": "some content",
+    "title": "Title",
+    "content": "Content",
     "category": "tech",
-    "id": "1663771596130"
+    "id": "1664000029350",
+    "thumbnail": "http://localhost:3000/1664000029350-image_0010_2550x1200.png"
   },
   {
-    "title": "some title",
-    "content": "some content",
+    "title": "Title",
+    "content": "Content",
+    "category": "tech",
+    "id": "1664000656049",
+    "thumbnail": "http://localhost:3000/1664000656049-image_0011_2550x800.png"
+  },
+  {
+    "title": "Title",
+    "content": "Content",
+    "category": "tech",
+    "id": "1664004780284",
+    "thumbnail": "http://localhost:3000/1664004780284-image_0012_2550x1200.png"
+  },
+  {
+    "title": "ㅁㄴㅇㄹ",
+    "content": "ㅁㄴㅇㄹ",
+    "category": "tech",
+    "id": "1664004914571",
+    "thumbnail": "http://localhost:3000/1664004914571-image_0013_1024x1600.png"
+  },
+  {
+    "title": "1234",
+    "content": "1234",
     "category": "political",
-    "id": "1663771616397"
+    "id": "1664005144094",
+    "thumbnail": "http://localhost:3000/1664005144094-image_0015_1024x800.png"
+  },
+  {
+    "title": "1234",
+    "content": "1234",
+    "category": "political",
+    "id": "1664005187613",
+    "thumbnail": "http://localhost:3000/1664005187613-image_0008_1440x1200.png"
   }
 ]
