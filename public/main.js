@@ -61,14 +61,14 @@ const postData = async (data) => {
     body: data,
   });
 
-  // if (result.ok) {
-  //   const response = await result.json();
-  //   if (response.success) {
-  //     displayMessage(response.message, "green");
-  //     resetForm();
-  //   }
-  //   if (!response.success) {
-  //     displayMessage(response.message, "red");
-  //   }
-  // }
+  if (result.ok) {
+    const response = await result.json();
+    if (response.success) {
+      displayMessage(response.message, "green");
+      resetForm();
+    }
+    if (!response.success) {
+      displayMessage(response.message, "red");
+    }
+  }
 };
